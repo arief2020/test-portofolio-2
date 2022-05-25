@@ -1,0 +1,47 @@
+body {
+    margin-top: 50px;
+}
+
+.navbar{
+    background-color: rgb(8, 0, 126);
+}
+
+.jumbotron {
+    margin-bottom:  0;
+}
+.jumbotron img {
+    width: 25%;
+}
+
+#home {
+    background-color: rgb(52, 96, 199);
+    color: white;
+}
+
+#about {
+    padding-top: 2rem;
+    background-color: rgb(144, 177, 255);
+    color: black;
+}
+
+#portfolio{
+    background-color: rgb(52, 96, 199);
+    color: white;
+}
+
+#contact{
+    background-color: rgb(144, 177, 255);
+    padding-bottom: 2rem;
+}
+
+.card-body{
+    color: black;
+}
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
